@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dungeon-synth-simple-synth-preview.mp3",
+  "preview_sha256": "7d08a1a6e96ac232ffcb83c7975fc98dc50fad1dd32d7e0f658a4cdcebf5d727",
+  "source_midi_path": "midi/ds01-stone-door/ds01-stone-door-combined.mid",
+  "source_midi_sha256": "0db97263ea6cc2febfd7fc1e4c88b6fb6c969d41cc09328e5c257a6e083efff7",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "ds01",
+    "start_seconds": 0,
+    "end_seconds": 101.053
+  },
+  "measurement": {
+    "sample_peak": 0.162919,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
