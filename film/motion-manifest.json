@@ -1,0 +1,26 @@
+{
+  "title": "Dungeon Synth",
+  "study": "ds01",
+  "bpm": 76,
+  "source_audio": "preview/dungeon-synth-simple-synth-preview.mp3",
+  "source_audio_sha256": "7d08a1a6e96ac232ffcb83c7975fc98dc50fad1dd32d7e0f658a4cdcebf5d727",
+  "source_midi": "midi/ds01-stone-door/ds01-stone-door-combined.mid",
+  "source_midi_sha256": "0db97263ea6cc2febfd7fc1e4c88b6fb6c969d41cc09328e5c257a6e083efff7",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "5b154aac0169ef8e73e288795dafd3ce9ac6799239f591460b37c6c8980917d1",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "4022ef7a1c85725f1ba64abc25775ee21c91a6b222ffabf2e3b032e1a9dbafb7",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "a38367bfc0f5f2acaf18af560b9df1952a69b23c269e07817b95e47993fb0a9a",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
