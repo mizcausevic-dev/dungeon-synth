@@ -12,21 +12,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 783,
-      "sha256": "8c18f04cb53c951fec50c7093fe62a7a05aba3931f7695c021810ee846527d70"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3129,
-      "sha256": "a351cd888a9b9a7c1dcc6583d32f17f988f37bd23b5dadaf3afb3ff9241d3c65"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -53,8 +38,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 138687,
-      "sha256": "5b154aac0169ef8e73e288795dafd3ce9ac6799239f591460b37c6c8980917d1"
+      "bytes": 117232,
+      "sha256": "126fa95b8064f4ede0556729f119615e89bdb4e5c33803c79241d65af1635956"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -79,7 +64,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 365,
-      "sha256": "b5e2f2c7ccc860fca0bb8d63b907a5df7fbe20a45793a7e4af05614d36903f86"
+      "sha256": "646309ddb92c840f9c6d2e7d0dae4dfcd1f0312776153d3fc570b838ab28c95c"
     },
     {
       "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
@@ -93,8 +78,8 @@
     },
     {
       "path": "downloads/dungeon-synth-midi.zip",
-      "bytes": 35763,
-      "sha256": "818901e3f6a9ee7edb038c3efd3e7f7ad10e94f4ccd942950b615fd348bddf42"
+      "bytes": 30231,
+      "sha256": "7e5da0229b8e2246b317f1666649485aa7b6b2a80a6af5ad8aaf53813df811a0"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -103,13 +88,13 @@
     },
     {
       "path": "film/motion-manifest.json",
-      "bytes": 1186,
-      "sha256": "ce2a3758c61272db0b721e0ba93e6b44f569e1417f7e5254259c88ed2b50af10"
+      "bytes": 1212,
+      "sha256": "40bd83dabce4877657ba0fa4738a2d2e282696ce4eb31daffed92cff9e33aec2"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2650,
-      "sha256": "ab4848b77d1a9115368f4465061ac0a90e8852ec664659191849a78081d2d614"
+      "bytes": 2593,
+      "sha256": "3ffb38cad3555f5798bb1fe5b9dc5595edec502f61fd8b52b1c6ca3f3ab9a5de"
     },
     {
       "path": "film/motion-overlay.png",
@@ -118,8 +103,8 @@
     },
     {
       "path": "film/motion-preview.mp4",
-      "bytes": 834045,
-      "sha256": "a38367bfc0f5f2acaf18af560b9df1952a69b23c269e07817b95e47993fb0a9a"
+      "bytes": 818195,
+      "sha256": "74525c9ffb0a5f9ac23c40b21ac1a2118a98dc597aa9dc7bdb5a8650600afa1e"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -128,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9382,
-      "sha256": "9485ac9a6294b3401fba5eeeb3eb16c6c259e251789fcf69fa2c43bab0a83c6e"
+      "bytes": 10262,
+      "sha256": "fa4e1b1f808834a941148e4473e55ad29a749453d842627be26eaa2ca89624a1"
     },
     {
       "path": "midi/ds01-stone-door/chord_pulse.mid",
@@ -148,13 +133,13 @@
     },
     {
       "path": "midi/ds01-stone-door/ds01-stone-door-combined.mid",
-      "bytes": 8162,
-      "sha256": "0db97263ea6cc2febfd7fc1e4c88b6fb6c969d41cc09328e5c257a6e083efff7"
+      "bytes": 7069,
+      "sha256": "40f1268357416e50c2aa51b7b573c70f70917c04b2ce23d8cb73915ac11d34a2"
     },
     {
       "path": "midi/ds01-stone-door/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "e92ec9078eb3359c578885879df09451cf3f76a2ca71e2a73ecfa5cb4f2119a7"
+      "bytes": 539,
+      "sha256": "27c6ed076b14e00955be5104e7f3bd5af62735db864e850d649eb97e2362d049"
     },
     {
       "path": "midi/ds01-stone-door/sub_bass.mid",
@@ -183,13 +168,13 @@
     },
     {
       "path": "midi/ds02-lantern-key/ds02-lantern-key-combined.mid",
-      "bytes": 8162,
-      "sha256": "c55c37fc617d56afe22fa7e248f2535e5d9c1fafc2c8afe1ccd5ce8b3a1796f8"
+      "bytes": 7069,
+      "sha256": "11a358d73d8771e7db31b49f5ec8bd3b4903f5219175ff01ef5819e6d7871f50"
     },
     {
       "path": "midi/ds02-lantern-key/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "92c782e73f82af4d5b2dca170404729d8f14d264da8f8696f5078ca81260f17b"
+      "bytes": 539,
+      "sha256": "da6249878e1b036af25cab173f8106a89b01260230852bc16592f6f9aeddbd36"
     },
     {
       "path": "midi/ds02-lantern-key/sub_bass.mid",
@@ -218,13 +203,13 @@
     },
     {
       "path": "midi/ds03-moss-hall/ds03-moss-hall-combined.mid",
-      "bytes": 8163,
-      "sha256": "b404ce36b3e9413c85481b1fd12632a5a63bbae06b084245b235d9280655727f"
+      "bytes": 7068,
+      "sha256": "b13fc731642e4dbdb3da35a49960b0eb456785398800897e85fff6371fbe0f8a"
     },
     {
       "path": "midi/ds03-moss-hall/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "1b3f2f9d24d63c2c8b32ec306489b79f954f87ab2efa9319a97c12537d11a8c5"
+      "bytes": 538,
+      "sha256": "466a3c9b7acf7737974de4f6f2409eea9b22bb2ea7ee7d1e792446f2df8ba77d"
     },
     {
       "path": "midi/ds03-moss-hall/sub_bass.mid",
@@ -253,13 +238,13 @@
     },
     {
       "path": "midi/ds04-north-return/ds04-north-return-combined.mid",
-      "bytes": 8162,
-      "sha256": "43f306e95578faaaf5b083fa27e1307e02eef2032688d7d90d8872d3b7383935"
+      "bytes": 7068,
+      "sha256": "25c69d6782ec77ad4095238045a74464d37312487894c1e8df157ac1f3393202"
     },
     {
       "path": "midi/ds04-north-return/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "2dd8ed691189cf1e56b85234cd665b5d4b764384d5f8beb184634b76a1662ac8"
+      "bytes": 538,
+      "sha256": "3735aa8a7dd78b3f6dfe081373f379718c614757b85576943a39f7230f7f931b"
     },
     {
       "path": "midi/ds04-north-return/sub_bass.mid",
@@ -272,14 +257,34 @@
       "sha256": "0a1d30fb10fab6ffc4ea90029a25adf80542666aff9c42eda7e7b8c9b7d92339"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 783,
+      "sha256": "8c18f04cb53c951fec50c7093fe62a7a05aba3931f7695c021810ee846527d70"
+    },
+    {
       "path": "preview/dungeon-synth-simple-synth-preview.mp3",
       "bytes": 2438835,
-      "sha256": "7d08a1a6e96ac232ffcb83c7975fc98dc50fad1dd32d7e0f658a4cdcebf5d727"
+      "sha256": "5eecc5e0d675bbd2bb0c953ee9516a25af9ca9f4dc26d11fe867a9fa020e1830"
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1125,
-      "sha256": "38a1baf35463ac46727593fb1be5229e7b05a631b4678b841a00f87d5982ba5e"
+      "bytes": 1124,
+      "sha256": "de001ec87dd6ef72651b32ca2292060f3a896e204a8307eee8cdbf6d94362262"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3347,
+      "sha256": "88499d1642b2e0261a0220d7845b100e2212bf65b22b91e7fb3353ae55fe4bb2"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 651,
+      "sha256": "906ee3cee9d72e8e821ef12f12451f1dc947ac2d0a62b4ab686e16c626841313"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -298,8 +303,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47494,
-      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
+      "bytes": 47962,
+      "sha256": "b8b287ed2f832755d08a3188ff8855683f056fc94004aa58b8424a2ed9ef6dd6"
     },
     {
       "path": "tools/render_motion_preview.py",

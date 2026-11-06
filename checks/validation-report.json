@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:40.631398+00:00",
+  "run_time_utc": "2026-11-06T11:28:18.499841+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/ds01-stone-door/ds01-stone-door-combined.mid",
-      "bytes": 8162,
-      "sha256": "0db97263ea6cc2febfd7fc1e4c88b6fb6c969d41cc09328e5c257a6e083efff7",
+      "bytes": 7069,
+      "sha256": "40f1268357416e50c2aa51b7b573c70f70917c04b2ce23d8cb73915ac11d34a2",
       "errors": []
     },
     {
       "path": "midi/ds01-stone-door/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "e92ec9078eb3359c578885879df09451cf3f76a2ca71e2a73ecfa5cb4f2119a7",
+      "bytes": 539,
+      "sha256": "27c6ed076b14e00955be5104e7f3bd5af62735db864e850d649eb97e2362d049",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/ds02-lantern-key/ds02-lantern-key-combined.mid",
-      "bytes": 8162,
-      "sha256": "c55c37fc617d56afe22fa7e248f2535e5d9c1fafc2c8afe1ccd5ce8b3a1796f8",
+      "bytes": 7069,
+      "sha256": "11a358d73d8771e7db31b49f5ec8bd3b4903f5219175ff01ef5819e6d7871f50",
       "errors": []
     },
     {
       "path": "midi/ds02-lantern-key/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "92c782e73f82af4d5b2dca170404729d8f14d264da8f8696f5078ca81260f17b",
+      "bytes": 539,
+      "sha256": "da6249878e1b036af25cab173f8106a89b01260230852bc16592f6f9aeddbd36",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/ds03-moss-hall/ds03-moss-hall-combined.mid",
-      "bytes": 8163,
-      "sha256": "b404ce36b3e9413c85481b1fd12632a5a63bbae06b084245b235d9280655727f",
+      "bytes": 7068,
+      "sha256": "b13fc731642e4dbdb3da35a49960b0eb456785398800897e85fff6371fbe0f8a",
       "errors": []
     },
     {
       "path": "midi/ds03-moss-hall/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "1b3f2f9d24d63c2c8b32ec306489b79f954f87ab2efa9319a97c12537d11a8c5",
+      "bytes": 538,
+      "sha256": "466a3c9b7acf7737974de4f6f2409eea9b22bb2ea7ee7d1e792446f2df8ba77d",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/ds04-north-return/ds04-north-return-combined.mid",
-      "bytes": 8162,
-      "sha256": "43f306e95578faaaf5b083fa27e1307e02eef2032688d7d90d8872d3b7383935",
+      "bytes": 7068,
+      "sha256": "25c69d6782ec77ad4095238045a74464d37312487894c1e8df157ac1f3393202",
       "errors": []
     },
     {
       "path": "midi/ds04-north-return/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "2dd8ed691189cf1e56b85234cd665b5d4b764384d5f8beb184634b76a1662ac8",
+      "bytes": 538,
+      "sha256": "3735aa8a7dd78b3f6dfe081373f379718c614757b85576943a39f7230f7f931b",
       "errors": []
     },
     {
