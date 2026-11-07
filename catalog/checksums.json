@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/dungeon-synth-midi.zip",
-      "bytes": 30231,
-      "sha256": "7e5da0229b8e2246b317f1666649485aa7b6b2a80a6af5ad8aaf53813df811a0"
+      "bytes": 32629,
+      "sha256": "3481ea0c18da68b651d900d62c51d2ea52407fd7af7e786f213f7fbcdd38f3a0"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10262,
-      "sha256": "fa4e1b1f808834a941148e4473e55ad29a749453d842627be26eaa2ca89624a1"
+      "bytes": 10452,
+      "sha256": "8f0331d3d053b019963d56b34816a864c54d534024834a69e569dcd4d1eb3f88"
     },
     {
       "path": "midi/ds01-stone-door/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "0a1d30fb10fab6ffc4ea90029a25adf80542666aff9c42eda7e7b8c9b7d92339"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 783,
       "sha256": "8c18f04cb53c951fec50c7093fe62a7a05aba3931f7695c021810ee846527d70"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3347,
-      "sha256": "88499d1642b2e0261a0220d7845b100e2212bf65b22b91e7fb3353ae55fe4bb2"
+      "bytes": 3462,
+      "sha256": "2cb61846e4568c0102f3f54de64b852cb67729535c377a935b5336d8f3ee22b8"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
